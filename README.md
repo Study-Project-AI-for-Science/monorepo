@@ -1,4 +1,5 @@
 # LLMs for Science Backend
+## $${\color{red}Currently \space the \space main \space branch \space doesn't \space work \space for \space local \space deployment, \space please \space switch \space to \space dev \space branch \space for \space that}$$
 
 [![Docker](https://github.com/Study-Project-AI-for-Science/backend/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/Study-Project-AI-for-Science/backend/actions/workflows/docker-publish.yml)
 Licence: GPLv3
